@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uFocEaLtEbEMzsWKpCJrVIxex1z2V0SZuOEMOOgwj8woeG2m3gLi9SbwL3cDbbZVXzUC4GFoK0JzBlHvUIxlRA==",
+  "success": true,
+  "projectFilePath": "D:\\vsExamples\\Inspection\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jp\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\jp\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\jp\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

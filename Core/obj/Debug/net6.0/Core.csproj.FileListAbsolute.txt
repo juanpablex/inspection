@@ -1,0 +1,15 @@
+D:\vsExamples\Inspection\Core\bin\Debug\net6.0\Core.deps.json
+D:\vsExamples\Inspection\Core\bin\Debug\net6.0\Core.dll
+D:\vsExamples\Inspection\Core\bin\Debug\net6.0\Core.pdb
+D:\vsExamples\Inspection\Core\bin\Debug\net6.0\Entities.dll
+D:\vsExamples\Inspection\Core\bin\Debug\net6.0\Entities.pdb
+D:\vsExamples\Inspection\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\vsExamples\Inspection\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsExamples\Inspection\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\vsExamples\Inspection\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\vsExamples\Inspection\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\vsExamples\Inspection\Core\obj\Debug\net6.0\Core.csproj.CopyComplete
+D:\vsExamples\Inspection\Core\obj\Debug\net6.0\Core.dll
+D:\vsExamples\Inspection\Core\obj\Debug\net6.0\refint\Core.dll
+D:\vsExamples\Inspection\Core\obj\Debug\net6.0\Core.pdb
+D:\vsExamples\Inspection\Core\obj\Debug\net6.0\ref\Core.dll
